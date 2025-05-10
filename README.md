@@ -1,4 +1,4 @@
-# Veridion Challenge - Data Science Track
+#My first attempt at zero-shot multilabel learning on a raw dataset
 
 ## Project Overview
 This project develops a scalable **company classifier** for an insurance taxonomy using unstructured data (descriptions, tags, and sector labels). Without ground-truth labels, the solution emphasizes **heuristic validation** over traditional metrics, leveraging embeddings and zero-shot learning while prioritizing **real-world relevance**.
